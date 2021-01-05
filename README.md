@@ -7,3 +7,5 @@
 
 3- To predict the next day opening price using the past 3 days Open, High, and
 Low prices and volume. Therefore, each sample will have (4*3 = ) 12 features.
+
+4- To run to project use command line.

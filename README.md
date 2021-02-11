@@ -1,4 +1,4 @@
-# Recurrent-Neural-Networks-for-Regression--Stock-Price-Predictionn
+# Recurrent-Neural-Networks-for-Regression--Stock-Price-Prediction
 
 1- A dataset for stock price prediction for 5 years with one sample per day is used
 (q2_dataset). 
